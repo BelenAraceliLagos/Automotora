@@ -1,0 +1,4 @@
+Patente: 999XD
+ Edad: null
+ Fecha de venta 22112020
+ Nombre venta otro auto
