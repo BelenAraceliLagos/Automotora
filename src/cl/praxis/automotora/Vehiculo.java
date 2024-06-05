@@ -2,11 +2,10 @@ package cl.praxis.automotora;
 
 public class Vehiculo {
 
-    private String color;
-    private String patente;
+    public String color;
+    public String patente;
 
     public Vehiculo(){
-
     }
 
     public Vehiculo(String color, String patente){

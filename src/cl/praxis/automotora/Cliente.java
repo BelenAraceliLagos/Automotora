@@ -2,7 +2,7 @@ package cl.praxis.automotora;
 
 public class Cliente extends Persona{
 
-    private Integer edad;
+    public Integer edad;
 
     public Cliente() {
     }
